@@ -1,5 +1,3 @@
-
-from crypt import methods
 import hashlib
 from io import BufferedReader
 import logging
